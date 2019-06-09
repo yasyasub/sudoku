@@ -1,0 +1,20 @@
+C:\Users\SYPER\Documents\Visual Studio 2012\Projects\sudo2\sudo2\bin\Debug\sudo2.exe
+C:\Users\SYPER\Documents\Visual Studio 2012\Projects\sudo2\sudo2\bin\Debug\sudo2.pdb
+C:\Users\SYPER\Documents\Visual Studio 2012\Projects\sudo2\sudo2\bin\Debug\sudo2.xml
+C:\Users\SYPER\Documents\Visual Studio 2012\Projects\sudo2\sudo2\obj\Debug\sudo2.frmSudo.resources
+C:\Users\SYPER\Documents\Visual Studio 2012\Projects\sudo2\sudo2\obj\Debug\sudo2.Resources.resources
+C:\Users\SYPER\Documents\Visual Studio 2012\Projects\sudo2\sudo2\obj\Debug\sudo2.vbproj.GenerateResource.Cache
+C:\Users\SYPER\Documents\Visual Studio 2012\Projects\sudo2\sudo2\obj\Debug\sudo2.exe
+C:\Users\SYPER\Documents\Visual Studio 2012\Projects\sudo2\sudo2\obj\Debug\sudo2.xml
+C:\Users\SYPER\Documents\Visual Studio 2012\Projects\sudo2\sudo2\obj\Debug\sudo2.pdb
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\bin\Debug\sudo2.exe
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\bin\Debug\sudo2.pdb
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\bin\Debug\sudo2.xml
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\obj\Debug\sudo2.vbprojAssemblyReference.cache
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\obj\Debug\sudo2.frmSudo.resources
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\obj\Debug\sudo2.Resources.resources
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\obj\Debug\sudo2.vbproj.GenerateResource.cache
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\obj\Debug\sudo2.vbproj.CoreCompileInputs.cache
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\obj\Debug\sudo2.exe
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\obj\Debug\sudo2.xml
+C:\Users\yasya\Documents\anuta\sudo2beta\sudo2\sudo2\obj\Debug\sudo2.pdb
